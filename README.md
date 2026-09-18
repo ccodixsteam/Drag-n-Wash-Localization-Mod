@@ -1,7 +1,7 @@
 
 <img width="300" alt="creds to ccodix" src="https://github.com/user-attachments/assets/1bcfe778-a847-4223-affe-6f66178afd97" />
 
-<img width="2715" height="1715" alt="20260924231241" src="https://github.com/user-attachments/assets/4ed979aa-a3ab-4865-bcb4-f596faf4a50a" />
+<img width="1629" alt="20260924231241" src="https://github.com/user-attachments/assets/4ed979aa-a3ab-4865-bcb4-f596faf4a50a" />
 
 # Drag'n Wash Localization Mod
 
