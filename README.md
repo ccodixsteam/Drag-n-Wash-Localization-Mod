@@ -1,6 +1,8 @@
 
 <img width="300" alt="creds to ccodix" src="https://github.com/user-attachments/assets/1bcfe778-a847-4223-affe-6f66178afd97" />
 
+<img width="2715" height="1715" alt="20260924231241" src="https://github.com/user-attachments/assets/4ed979aa-a3ab-4865-bcb4-f596faf4a50a" />
+
 # Drag'n Wash Localization Mod
 
 Модификация локализации для игры Drag'n Wash только для Steam Поддерживает Русский и Украинский языки, а также оригинальный Английский язык с возможностью мгновенного переключения прямо в главном меню
