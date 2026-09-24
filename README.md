@@ -1,8 +1,21 @@
+
+<img width="300" alt="creds to ccodix" src="https://github.com/user-attachments/assets/1bcfe778-a847-4223-affe-6f66178afd97" />
+
 # Drag'n Wash Localization Mod
 
 Модификация локализации для игры Drag'n Wash только для Steam Поддерживает Русский и Украинский языки, а также оригинальный Английский язык с возможностью мгновенного переключения прямо в главном меню
 
 Open source localization mod for Drag'n Wash [steam] Supports Russian and Ukrainian languages, as well as the original English language with dynamic switching from the main menu
+
+<img width="850" alt="20260924201836" src="https://github.com/user-attachments/assets/c90b469e-91f9-40a2-913e-63ddbe9efd3c" />
+
+<img width="1500" alt="202306" src="https://github.com/user-attachments/assets/435d0d44-7ab9-4fe0-9f3f-2faf402ec7b1" />
+<img width="1500" alt="202300" src="https://github.com/user-attachments/assets/1a6968f7-3204-4263-b45a-90e2dbd65811" />
+<img width="1500" alt="202407" src="https://github.com/user-attachments/assets/75457ec5-07c3-4ac3-ab26-959cb7629d1d" />
+
+<img width="1919" height="925" alt="20260924214504" src="https://github.com/user-attachments/assets/12fc2257-c2c8-4131-a9af-e32b330a9195" />
+
+<img width="550" alt="20260924202149" src="https://github.com/user-attachments/assets/4d29beb4-6829-46b5-8ac4-6f29013ec508" />
 
 ---
 
@@ -21,6 +34,8 @@ Open source localization mod for Drag'n Wash [steam] Supports Russian and Ukrain
 * Вся локализация делалась полностью вручную
 * К сожалению в моде доступны только Русский и Украинский языки, но любой желающий может просмотреть код, использовать наработки или взять что угодно для создания своего перевода
 * Примечание: переведено абсолютно всё, кроме анимаций, к сожалению <:(
+
+https://github.com/user-attachments/assets/9cb60572-8445-4db4-a874-ffe620b68dec
 
 ### Установка
 
