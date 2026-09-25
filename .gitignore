@@ -7,3 +7,5 @@ obj/
 *.log
 dist/
 LocalizationMod/
+android_port/
+data/mobile/
